@@ -1,19 +1,6 @@
-# My website (based on martin saveski's template)
+# My Personal Website 
 
-## Things to change
-baseurl in _config.yml
-files in _data
-index.hml (bio, google scholar link)
-categories (selected --> ML / NLP / Bio)
-layouts (default.html)
-
-## Updates guide
-Change one of the files in `_data`, unless you are changing the look of the website.
-
-Test changes with:
-```
-jekyll serve
-```
+This repository contians code for my personal website and is built upon Martin Saveski's template which can be found [here](https://github.com/msaveski/www_personal). 
 
 ## External Libraries
 - Framework: [Jekyll](http://jekyllrb.com/)
