@@ -1,6 +1,6 @@
 # My Personal Website 
 
-This repository contians code for my personal website and is built upon Martin Saveski's template which can be found [here](https://github.com/msaveski/www_personal). 
+This repository contians code for my personal website and is built upon Tatsunori Hashimoto's and Martin Saveski's template which can be found [here](https://thashim.github.io) and [here](https://github.com/msaveski/www_personal) respectively.
 
 ## External Libraries
 - Framework: [Jekyll](http://jekyllrb.com/)
