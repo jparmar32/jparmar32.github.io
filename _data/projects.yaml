@@ -6,13 +6,13 @@ projects:
     selected: y
 
   - title: "Acta"
-    subtitle: "Combating the spread of misinformation with NLP."
+    subtitle: "Using NLP to combat the spread of misinformation."
     thumbnail: "assets/projects/2018-nlg.png"
     url: "projects/2018-nlg.html"
     selected: y
 
   - title: "Biomedical Information Extraction"
-    subtitle: "Uncovering biomedical data silos currently stuck within published literature."
+    subtitle: "Uncovering biomedical data silos currently stuck within millions of pieces of literature."
     thumbnail: "assets/projects/2016-embed.png"
     url: "projects/2016-embed.html"
     selected: y
