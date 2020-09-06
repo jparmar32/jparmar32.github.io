@@ -100,8 +100,73 @@ title: Home
 
 
 
-<!-- ========== PUBLICATIONS ========== -->
+<!-- ========== PROJECTS ========== -->
 <div class="docs-section" id="projects">
+  
+<h4>Projects</h4>
+ 
+<!--
+  <ul class="tab-nav">
+    <li><div class="button active" data-ref="#proj-cur">Current Projects</div></li>
+    <li><div class="button" data-ref="#proj-past">Past</div></li>    
+  </ul>
+
+  <div class="tab-content">
+    <div class="tab-pane active" id="proj-cur">
+--!>
+
+
+      {% assign selected_projects = site.data.projects.projects | where: "selected", "y" %}
+      {% for project in selected_projects %}
+        {% assign index_modulo = forloop.index0 | modulo:3 %}
+        {% if index_modulo == 0 %}
+          <div class="row">
+        {% endif %}
+
+          <div class="four columns">
+            <div class="project-container">
+
+                <div class="project-image-container">
+                  <a href="{{ project.url }}">
+                    <img src="{{ project.thumbnail }}" class="u-max-full-width" />
+                  </a>
+                </div>
+
+                <div class="project-caption">
+                  <center>
+                  <b>{{ project.title }}</b> <br/>
+                  </center>
+                  {{ project.subtitle }}
+                </div>
+
+            </div>
+          </div>
+
+        {% if index_modulo == 2 %}
+          </div>
+        {% endif %}
+      {% endfor %}
+<!---      </div>
+   </div>
+---!>
+
+</div>
+
+
+  
+
+<div class="docs-section" id="Posts">
+  <h4>Publications and Written Pieces</h4>
+  {% assign current_talks = site.data.talks.talks | where: "category", "current" %}
+  {% for talk in current_talks %}
+  <div class="talk">
+    <p class="title"><b>{{ talk.name }}</b> ({{ talk.time }}): <a href={{talk.link}} target="_blank">{{ talk.title }}</a></p>
+  </div>
+  {% endfor %}
+</div>
+
+
+ 
 
 
 <!-- ========== RESUME ========== -->
