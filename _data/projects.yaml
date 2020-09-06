@@ -1,18 +1,18 @@
 projects:
-  - title: "Distributionally Robust Models"
-    subtitle: "Training methods to make models perform even in the worst-case on a population."
+  - title: "Observational Supervision"
+    subtitle: "Using passively observed human signals to improve supervised deep learning models."
     thumbnail: "assets/projects/2018-dro.png"
     url: "projects/2018-dro.html"
     selected: y
 
-  - title: "Diverse Natural Language Generation"
-    subtitle: "Improving and quantifying the tendency for generation systems to memorize generic statements"
+  - title: "Acta"
+    subtitle: "Combating the spread of misinformation with NLP."
     thumbnail: "assets/projects/2018-nlg.png"
     url: "projects/2018-nlg.html"
     selected: y
 
-  - title: "Representations from Random Walks"
-    subtitle: "Understanding when random-walk based word and graph representations works."
+  - title: "Biomedical Information Extraction"
+    subtitle: "Uncovering biomedical data silos currently stuck within published literature."
     thumbnail: "assets/projects/2016-embed.png"
     url: "projects/2016-embed.html"
     selected: y
