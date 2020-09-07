@@ -6,7 +6,7 @@ projects:
     selected: y
 
   - title: "Acta"
-    subtitle: "Using NLP to combat the spread of misinformation."
+    subtitle: "Applying NLP to combat the spread of misinformation."
     thumbnail: "assets/projects/acta.png"
     url: "projects/2020-acta.html"
     selected: y
