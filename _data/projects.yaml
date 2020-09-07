@@ -1,13 +1,13 @@
 projects:
   - title: "Observational Supervision"
     subtitle: "Using passively observed human signals to improve supervised deep learning models."
-    thumbnail: "assets/projects/2018-dro.png"
+    thumbnail: "assets/projects/obs-super.png"
     url: "projects/2020-obs-super.html"
     selected: y
 
   - title: "Acta"
     subtitle: "Using NLP to combat the spread of misinformation."
-    thumbnail: "assets/projects/2018-nlg.png"
+    thumbnail: "assets/projects/acta.png"
     url: "projects/2020-acta.html"
     selected: y
 
