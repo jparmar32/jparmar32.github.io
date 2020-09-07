@@ -13,6 +13,6 @@ projects:
 
   - title: "Biomedical Information Extraction"
     subtitle: "Uncovering biomedical data silos currently stuck within millions of pieces of literature."
-    thumbnail: "assets/projects/2016-embed.png"
+    thumbnail: "assets/projects/bio-ie.png"
     url: "projects/2020-bio-ie.html"
     selected: y
