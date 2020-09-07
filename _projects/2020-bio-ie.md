@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Biomedical Information Extraction
-subtitle: Uncovering Biomedical Data Silos Currently Stuck Within Millions of Pieces of Literature
+subtitle: Uncovering Biomedical Data Silos Currently Locked Within Texts 
 ---
 
 <img style="width: 40%; float: left; border: 1px solid black; margin-top: 10px; margin-right: 10px;" src="{{"/assets/projects/bio-ie-2.png" | prepend: site.baseurl }}"/>
