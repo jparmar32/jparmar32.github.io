@@ -1,6 +1,6 @@
 projects:
   - title: "Observational Supervision"
-    subtitle: "Using passively observed human signals to improve supervised deep learning models."
+    subtitle: "Using passively observed human signals to improve medical imaging models."
     thumbnail: "assets/projects/obs-super.png"
     url: "projects/2020-obs-super.html"
     selected: y
