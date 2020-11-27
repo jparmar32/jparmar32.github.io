@@ -2,13 +2,15 @@ papers:
 
   - title: "Biomedical Information Extraction For Disease Gene Prioritization"
     authors: "Jupinder Parmar, William Koehler, Martin Bringmann, Katharina Sophia Volz, Berk Kapicioglu"
-    venue: "Knowledge Representation and Reasoning Meets Machine Learning Workshop (KR2ML), at NeurIPS 2020"
+    venue: "Knowledge Representation and Reasoning Meets Machine Learning Workshop at Neural Information Processing Systems (NeurIPS 2020)"
     paper_pdf: https://arxiv.org/pdf/2011.05188.pdf
+    selected:y
     
   - title: "A Formulation of a Matrix Sparsity Approach for the Quantum Ordered Search Algorithm"
     authors: "Jupinder Parmar, Saarim Rahman, Jesse Thiara"
     venue: "International Journal of Quantum Information (2017)"
     paper_pdf: https://arxiv.org/pdf/1610.02117.pdf
+    selected:y
 
   - title: "The Gap: Where Machine Learning Education Falls Short"
     authors: "Jupinder Parmar"
