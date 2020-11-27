@@ -1,0 +1,8 @@
+papers:
+
+  - title: "Biomedical Information Extraction For Disease Gene Prioritization"
+    authors: "Jupinder Parmar, William Koehler, Martin Bringmann, Katharina Sophia Volz, Berk Kapicioglu"
+    venue: "Knowledge Representation and Reasoning Meets Machine Learning Workshop (KR2ML), at NeurIPS 2020"
+    paper_pdf: https://arxiv.org/pdf/2011.05188.pdf
+    selected: y
+    statsml: y
