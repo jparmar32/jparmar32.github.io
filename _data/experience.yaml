@@ -1,14 +1,26 @@
 experiences:
+- place: "IMC Trading"
+  time: "Summer 2021"
+  title: "Quantitative Trading Intern"
+  subtitle: "Trading Strategies for U.S ETF Option Auctions"
+  category: "work"
+  
+- place: "Stanford University"
+  time: "2020 - 2022"
+  title: "Graduate"
+  subtitle: M.S. in Computer Science. Advised by Christopher Ré.
+  category: "school"
+  
 - place: "OccamzRazor"
-  time: "March 2020 - now"
+  time: "March 2020 - June 2021"
   title: "Machine Learning Engineer"
-  subtitle: "Working on NLP"
+  subtitle: "Working on NLP and Graph Learning"
   category: "work"
 
 - place: "Stanford AI Lab"
-  time: "November 2019 - Now"
+  time: "November 2019 - now"
   title: "Researcher"
-  subtitle: "Working in Christopher Re's lab alongside Khaled Saab."
+  subtitle: "Working on Representation Learning and Domain Generalization"
   category: "research"
 
 - place: "SAS Institute"
