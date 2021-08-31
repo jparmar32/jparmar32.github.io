@@ -14,7 +14,7 @@ experiences:
 - place: "OccamzRazor"
   time: "March 2020 - June 2021"
   title: "Machine Learning Engineer"
-  subtitle: "Working on NLP and Graph Learning"
+  subtitle: "Worked on NLP and Graph Learning"
   category: "work"
 
 - place: "Stanford AI Lab"
@@ -25,8 +25,8 @@ experiences:
 
 - place: "SAS Institute"
   time: "Summer 2019"
-  title: "Summer Intern"
-  subtitle: "Software Engineer"
+  title: "Software Engineer Intern"
+  subtitle: "Used Machine Learning to Predict System Failures"
   category: "work"
 
 - place: "Stanford University"
