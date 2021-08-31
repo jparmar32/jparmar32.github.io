@@ -1,5 +1,10 @@
 papers:
 
+  - title: "Observational Supervision for Medical Image Classification using Gaze Data,"
+    authors: "Khaled Saab, Sarah Hooper, Nimit Sohoni, Jupinder Parmar, Brian Pogatchnik, Sen Wu, Jaredd Dunnmon, Hongyang Zhang, Daniel Rubin, Christopher Ré"
+    venue: "Medical Image Computing and Computer Assisted Intervention (MICCAI 2021)"
+    selected: y
+
   - title: "Biomedical Information Extraction For Disease Gene Prioritization"
     authors: "Jupinder Parmar, William Koehler, Martin Bringmann, Katharina Sophia Volz, Berk Kapicioglu"
     venue: "Knowledge Representation and Reasoning Meets Machine Learning Workshop at Neural Information Processing Systems (NeurIPS 2020)"
