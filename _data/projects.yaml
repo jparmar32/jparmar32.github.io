@@ -5,9 +5,9 @@ projects:
     url: "projects/2020-obs-super.html"
     selected: y
 
-  - title: "Acta"
-    subtitle: "Applying NLP to combat the spread of misinformation."
-    thumbnail: "assets/projects/acta.png"
+  - title: "Group Robustness"
+    subtitle: "Improving model performance on atypical subgroups of data."
+    thumbnail: "assets/projects/standard_grouping.png"
     url: "projects/2020-acta.html"
     selected: y
 
