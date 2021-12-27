@@ -3,6 +3,7 @@ papers:
   - title: "Observational Supervision for Medical Image Classification using Gaze Data"
     authors: "Khaled Saab, Sarah Hooper, Nimit Sohoni, Jupinder Parmar, Brian Pogatchnik, Sen Wu, Jaredd Dunnmon, Hongyang Zhang, Daniel Rubin, Christopher Ré"
     venue: "Medical Image Computing and Computer Assisted Intervention (MICCAI 2021)"
+    paper_pdf: https://link.springer.com/chapter/10.1007/978-3-030-87196-3_56
     selected: y
 
   - title: "Biomedical Information Extraction For Disease Gene Prioritization"
