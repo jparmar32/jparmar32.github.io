@@ -8,7 +8,7 @@ projects:
   - title: "Group Robustness"
     subtitle: "Improving model performance on atypical subgroups of data."
     thumbnail: "assets/projects/standard_grouping.png"
-    url: "projects/2020-acta.html"
+    url: "projects/2021-gr.md"
     selected: y
 
   - title: "Biomedical Information Extraction"
