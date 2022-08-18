@@ -1,7 +1,7 @@
 papers:
 
   - title: "The Importance of Background Information for Out of Distribution Generalization"
-    authors: "Jupinder Parmar, Khaled Saab, Brian Pogatchnik, Daniel Rubin, Christopher Re ́"
+    authors: "Jupinder Parmar, Khaled Saab, Brian Pogatchnik, Daniel Rubin, Christopher Ré"
     venue: "Workshop on Spurious Correlations, Invariance, and Stability at International Conference of Machine Learning (ICML 2022)"
     paper_pdf: https://arxiv.org/pdf/2206.08794.pdf
     selected: y
