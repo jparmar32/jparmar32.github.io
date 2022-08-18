@@ -1,5 +1,11 @@
 papers:
 
+  - title: "The Importance of Background Information for Out of Distribution Generalization"
+    authors: "Jupinder Parmar, Khaled Saab, Brian Pogatchnik, Daniel Rubin, Christopher Re ́"
+    venue: "Workshop on Spurious Correlations, Invariance, and Stability at International Conference of Machine Learning (ICML 2022)"
+    paper_pdf: https://arxiv.org/pdf/2206.08794.pdf
+    selected: y
+    
   - title: "Observational Supervision for Medical Image Classification using Gaze Data"
     authors: "Khaled Saab, Sarah Hooper, Nimit Sohoni, Jupinder Parmar, Brian Pogatchnik, Sen Wu, Jaredd Dunnmon, Hongyang Zhang, Daniel Rubin, Christopher Ré"
     venue: "Medical Image Computing and Computer Assisted Intervention (MICCAI 2021)"
