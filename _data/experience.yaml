@@ -1,5 +1,11 @@
 experiences:
 
+- place: "Nvidia"
+  time: "September 2022 - Current"
+  title: "Deep Learning Applied Scientist"
+  subtitle: "Conversational AI"
+  category: "work"
+
 - place: "OccamzRazor"
   time: "September 2021 - June 2022"
   title: "Machine Learning Engineer"
