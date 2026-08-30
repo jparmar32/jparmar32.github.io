@@ -1,5 +1,71 @@
 papers:
 
+  - title: "Nemotron 3 Ultra: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning"
+    authors: "NVIDIA Foundation Model Team"
+    venue: "ArXiv 2026"
+    paper_pdf: https://arxiv.org/pdf/2512.20856
+    selected: y
+
+  - title: "Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning"
+    authors: "NVIDIA Foundation Model Team"
+    venue: "ArXiv 2026"
+    paper_pdf: https://arxiv.org/pdf/2512.20856
+    selected: y
+
+  - title: "Nemotron 3 Nano: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning"
+    authors: "NVIDIA Foundation Model Team"
+    venue: "ArXiv 2025"
+    paper_pdf: https://arxiv.org/pdf/2512.20856
+    selected: y
+    
+  - title: "NVIDIA Nemotron 3: Efficient and Open Intelligence"
+    authors: "NVIDIA Foundation Model Team"
+    venue: "ArXiv 2025"
+    paper_pdf: https://arxiv.org/pdf/2512.20856
+    selected: y
+    
+  - title: "Nvidia Nemotron Nano 2: An Accurate and Efficient Hybrid Mamba-Transformer Reasoning Model"
+    authors: "NVIDIA Foundation Model Team"
+    venue: "ArXiv 2025"
+    paper_pdf: https://arxiv.org/pdf/2508.14444?
+    selected: y
+    
+  - title: "Llama-nemotron: Efficient Reasoning Models"
+    authors: "NVIDIA Foundation Model Team"
+    venue: "ArXiv 2025"
+    paper_pdf: https://arxiv.org/pdf/2505.00949?
+    selected: y
+    
+  - title: "Nemotron-h: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models"
+    authors: "NVIDIA Foundation Model Team"
+    venue: "ArXiv 2025"
+    paper_pdf: https://arxiv.org/pdf/2504.03624
+    selected: y
+    
+  - title: "Data, Data Everywhere: A Guide for Pretraining Dataset Construction"
+    authors: "Jupinder Parmar, Shrimai Prabhumoye, Joseph Jennings, Bo Liu, Aastha Jhunjhunwala, Zhilin Wang, Mostofa Patwary, Mohammad Shoeybi , Bryan Catanzaro"
+    venue: "Empirical Methods in Natural Language Processing (EMNLP) 2024 (Oral)"
+    paper_pdf: https://aclanthology.org/2024.emnlp-main.596.pdf
+    selected: y
+
+  - title: "Reuse, Don’t Retrain: A Recipe for Continued Pretraining of Language Models"
+    authors: "Jupinder Parmar, Sanjeev Satheesh, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro"
+    venue: "ArXiv 2024"
+    paper_pdf: https://arxiv.org/pdf/2407.07263?
+    selected: y
+    
+  - title: "Nemotron-4 340b Technical Report"
+    authors: "NVIDIA Foundation Model Team"
+    venue: "ArXiv 2024"
+    paper_pdf: https://arxiv.org/pdf/2406.11704
+    selected: y
+    
+  - title: "Nemotron-4 15b Technical Report"
+    authors: "Jupinder Parmar, Shrimai Prabhumoye, Joseph Jennings, Mostofa Patwary, Sandeep Subramanian, et al."
+    venue: "ArXiv 2024"
+    paper_pdf: https://arxiv.org/pdf/2402.16819
+    selected: y
+
   - title: "The Importance of Background Information for Out of Distribution Generalization"
     authors: "Jupinder Parmar, Khaled Saab, Brian Pogatchnik, Daniel Rubin, Christopher Ré"
     venue: "Workshop on Spurious Correlations, Invariance, and Stability at International Conference of Machine Learning (ICML 2022)"
