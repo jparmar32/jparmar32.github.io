@@ -1,7 +1,19 @@
 experiences:
 
+- place: "D.E. Shaw Research"
+  time: "January 2026 - Present"
+  title: "Member of Techincal Staff"
+  subtitle: "LLMs for Drug Discovery"
+  category: "work"
+  
+- place: "Weill Cornell Graduate School of Medical Sciences"
+  time: "2025 - present"
+  title: "Graduate"
+  subtitle: PhD in Computational Biology.
+  category: "school"
+
 - place: "Nvidia"
-  time: "September 2022 - Current"
+  time: "September 2022 - September 2025"
   title: "Research Scientist"
   subtitle: "Foundation Language Models"
   category: "work"
